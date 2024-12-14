@@ -11,5 +11,7 @@
             "email": "yak0v.evgenievich.bsnss@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.35"
+    }
 }
