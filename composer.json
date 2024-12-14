@@ -1,0 +1,15 @@
+{
+    "name": "sirius/hexlet-study",
+    "autoload": {
+        "psr-4": {
+            "Sirius\\HexletStudy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Яков Евгеньевич",
+            "email": "yak0v.evgenievich.bsnss@gmail.com"
+        }
+    ],
+    "require": {}
+}
